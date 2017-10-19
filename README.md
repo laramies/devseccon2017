@@ -8,7 +8,7 @@ In order to run the docker image with the Jupyter Notebook, first you need to pu
 
 Once the image is downloaded, run the container with the following command from:
 
--docker run –p 8888:8888 –v \`pwd\`/workdir:/opt laramies/alpine:devseccon
+-docker run -p 8888:8888 -v \`pwd\`/workdir:/opt laramies/alpine:devseccon
 
 Finally point your browser to http://localhost:8888
 
