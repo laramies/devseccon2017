@@ -1,6 +1,6 @@
 # devseccon2017
 
-Supporting material for the workshop. First clone this repository.
+Supporting material for the workshop. First clone this repository and make sure you have Docker installed (www.docker.com)
 
 In order to run the docker image with the Jupyter Notebook, first you need to pull the docker image created for this purpose:
 
