@@ -12,6 +12,8 @@ Once the image is downloaded, run the container with the following command from:
 
 Finally point your browser to http://localhost:8888
 
+After running the Notebook, you will end up with a Dashboard like this one:
+
 ![alt text](https://github.com/laramies/devseccon2017/raw/master/mydashboard.png)
 
 
