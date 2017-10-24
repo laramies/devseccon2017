@@ -12,4 +12,7 @@ Once the image is downloaded, run the container with the following command from:
 
 Finally point your browser to http://localhost:8888
 
+![alt text](https://github.com/laramies/devseccon2017/raw/master/mydashboard.png)
+
+
 
